@@ -1,0 +1,11 @@
+JDBC常用类和接口
+DriverManager:用于管理JDBC驱动的服务类。
+
+Connection:
+
+Statement:
+
+PreparedStatement:
+
+ResultSet:
+结果集:
